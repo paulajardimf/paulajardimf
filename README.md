@@ -1,7 +1,7 @@
 <h1>Olá, meu nome é Paula 👋☺</h1>
 <p>Sou formada em arquitetura e urbanismo, e atualmente estou estudando desenvolvimento full stack na Labenu👩‍💻</p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulajardimf&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Ferramentas e Tecnologias</h2>
 <div style="display: inline_block"><br>
@@ -22,3 +22,5 @@
   <a href="https://www.linkedin.com/in/paulajardimf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:paulajardimf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </div>
+
+![Snake animation](https://github.com/paulajardim/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
