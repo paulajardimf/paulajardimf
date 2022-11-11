@@ -1,6 +1,7 @@
 <div align= "left">
   <h1>Olá, meu nome é Paula <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
-  <p>Sou formada em arquitetura e urbanismo, e atualmente estou estudando desenvolvimento full stack na Labenu👩‍💻</p>
+  <p>Sou arquiteta e urbanista de formação e desenvolvedora por paixão 👩‍💻</p>
+  <p>Sempre aproveito ao máximo as oportunidades para enriquecer meus conhecimentos. Acredito que podemos transformar o mundo em um lugar melhor para se viver compartilhando conhecimento, e tendo empatia com o próximo.</p>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulajardimf&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
