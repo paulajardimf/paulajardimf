@@ -1,6 +1,7 @@
 <div align= "left">
   <h1>Olá, meu nome é Paula <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
   <p>Sou arquiteta e urbanista de formação e desenvolvedora por paixão 👩‍💻</p>
+  <p>Em formação pelo bootcamp de Desenvolvimento Web Full Stack da Labenu.</p>
   <p>Sempre aproveito ao máximo as oportunidades para enriquecer meus conhecimentos. Acredito que podemos transformar o mundo em um lugar melhor para se viver compartilhando conhecimento, e tendo empatia com o próximo.</p>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulajardimf&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,8 +21,8 @@
 
   <h2>Entre em contato comigo ↙</h2>
   <div> 
-    <a href="https://www.linkedin.com/in/paulajardimf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:paulajardimf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/paulajardimf/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:paulajardimf@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     </div>
 
 
