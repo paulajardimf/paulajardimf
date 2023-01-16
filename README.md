@@ -20,7 +20,7 @@
     <img align="center" alt="Adobe Illustrator" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
     <img align="center" alt="Adobe Photoshop" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">   
   </div>
-  <p></p>
+  <br>
   <h2>Entre em contato comigo ↙</h2>
   <div> 
     <a href="https://www.linkedin.com/in/paulajardimf/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
