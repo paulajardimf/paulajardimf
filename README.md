@@ -16,7 +16,8 @@
     <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" alt="Git" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Adobe Illustrator" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-    <img align="center" alt="Adobe Photoshop" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">        
+    <img align="center" alt="Adobe Photoshop" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> 
+    <img align="center" alt="SQLite" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"> 
   </div>
 
   <h2>Entre em contato comigo ↙</h2>
