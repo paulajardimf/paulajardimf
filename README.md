@@ -2,8 +2,6 @@
   <h1>Olá, meu nome é Paula <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
   <p>Sou desenvolvedora full stack 👩‍💻</p>
   <p>Em formação na pós graduação em Desenvolvimento Full Stack na Faculdade Descomplica.</p>
-  <p>Tenho formação em Arquitetura e Urbanismo, e possuo experiência em desenvolvimento de treinamentos para equipes, gerenciamento de equipe e escritório, produção de artes gráficas, atendimento, administrativo e financeiro.<p>
-  <p>Sempre tive afinidade com tecnologia, tanto que durante graduação eu me especializei em automações no software utilizado para desenhar projetos e ministrei treinamentos. Depois de formada eu decidi investir na área de desenvolvimento que é a minha grande paixão.<p>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulajardimf&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
