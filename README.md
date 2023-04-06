@@ -1,7 +1,7 @@
 <div align= "left">
   <h1>Olá, meu nome é Paula <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
   <p>Sou desenvolvedora full stack 👩‍💻</p>
-  <p>Em formação na pós graduação em Desenvolvimento Full Stack na Faculdade Descomplica.</p>
+  <p>Cursando pós graduação em Desenvolvimento Full Stack na Faculdade Descomplica.</p>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulajardimf&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
