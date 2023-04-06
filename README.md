@@ -13,6 +13,8 @@
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+    <img align="center" alt="ViteJs" height="30" width="40" src="https://www.svgrepo.com/show/374167/vite.svg">
+    <img align="center" alt="NextJs" height="30" width="40" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg">
     <img align="center" alt="Git" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="SQLite" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
     <img align="center" alt="Figma" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
